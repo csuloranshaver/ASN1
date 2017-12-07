@@ -40,7 +40,7 @@
 
     <div id="main">
 
-        <h1>Customer Lookup</h1>
+        <h1>Course Lookup</h1>
 
         <div id="content">
             <form>
