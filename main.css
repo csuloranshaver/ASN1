@@ -63,6 +63,15 @@ br {
     clear: left;
 }
 
+.classList > table{
+    width: 100%;
+    margin: 3px;
+}
+
+.classList > table:nth-child(odd) {
+    background: lightgrey;
+}
+
 /* the styles for the div tags that divide the page into sections */
 #page {
     width: 760px;
